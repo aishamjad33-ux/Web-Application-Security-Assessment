@@ -6,7 +6,7 @@
 ![Vulnerabilities](https://img.shields.io/badge/Vulnerabilities-25%20Identified-orange?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
-> A professional web application vulnerability assessment conducted using **Invicti Standard v25.2** — an enterprise-grade Dynamic Application Security Testing (DAST) scanner used by security teams worldwide. The assessment targeted a phpMyAdmin installation running on an isolated home lab environment, producing a 192-page detailed scan report across 119,102 HTTP requests over approximately 15 hours of scanning.
+> A professional web application vulnerability assessment conducted using **Invicti Standard v25.2** — an enterprise-grade Dynamic Application Security Testing (DAST) scanner used by security teams worldwide. The assessment targeted a phpMyAdmin installation, producing a 192-page detailed scan report across 119,102 HTTP requests over approximately 15 hours of scanning.
 
 ---
 
@@ -15,7 +15,7 @@
 | Detail | Value |
 |--------|-------|
 | **Tool** | Invicti Standard v25.2 |
-| **Target** | phpMyAdmin (Isolated Lab Environment) |
+| **Target** | phpMyAdmin |
 | **Scan Date** | March 27, 2026 |
 | **Scan Duration** | 14 hours 48 minutes |
 | **Total Requests** | 119,102 |
